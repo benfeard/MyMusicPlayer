@@ -12,9 +12,20 @@
 		2BEE802A264CC3F600B2F403 /* MyMusicPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE8001264CC3F200B2F403 /* MyMusicPlayerApp.swift */; };
 		2BEE802B264CC3F600B2F403 /* MyMusicPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE8001264CC3F200B2F403 /* MyMusicPlayerApp.swift */; };
 		2BEE802C264CC3F600B2F403 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE8002264CC3F200B2F403 /* ContentView.swift */; };
-		2BEE802D264CC3F600B2F403 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE8002264CC3F200B2F403 /* ContentView.swift */; };
 		2BEE802E264CC3F600B2F403 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8003264CC3F600B2F403 /* Assets.xcassets */; };
 		2BEE802F264CC3F600B2F403 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8003264CC3F600B2F403 /* Assets.xcassets */; };
+		2BEE803F264CC44A00B2F403 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE803E264CC44A00B2F403 /* Extensions.swift */; };
+		2BEE8040264CC44A00B2F403 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEE803E264CC44A00B2F403 /* Extensions.swift */; };
+		2BEE8046264CCA0600B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8041264CCA0500B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 */; };
+		2BEE8047264CCA0600B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8041264CCA0500B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 */; };
+		2BEE8048264CCA0600B2F403 /* Hyper Potions - Pika Dance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8042264CCA0500B2F403 /* Hyper Potions - Pika Dance.mp3 */; };
+		2BEE8049264CCA0600B2F403 /* Hyper Potions - Pika Dance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8042264CCA0500B2F403 /* Hyper Potions - Pika Dance.mp3 */; };
+		2BEE804A264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8043264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 */; };
+		2BEE804B264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8043264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 */; };
+		2BEE804C264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8044264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 */; };
+		2BEE804D264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8044264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 */; };
+		2BEE804E264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8045264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 */; };
+		2BEE804F264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8045264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,12 @@
 		2BEE8023264CC3F600B2F403 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BEE8027264CC3F600B2F403 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		2BEE8029264CC3F600B2F403 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BEE803E264CC44A00B2F403 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		2BEE8041264CCA0500B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3"; path = "../../../../Library/Mobile Documents/com~apple~CloudDocs/TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3"; sourceTree = "<group>"; };
+		2BEE8042264CCA0500B2F403 /* Hyper Potions - Pika Dance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Hyper Potions - Pika Dance.mp3"; path = "../../../../Library/Mobile Documents/com~apple~CloudDocs/Hyper Potions - Pika Dance.mp3"; sourceTree = "<group>"; };
+		2BEE8043264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "THX theme, but it keeps rising.mp3"; sourceTree = "<group>"; };
+		2BEE8044264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ITZY - 24HRS (SOPHIE Demo).mp3"; path = "../../../../Library/Mobile Documents/com~apple~CloudDocs/ITZY - 24HRS (SOPHIE Demo).mp3"; sourceTree = "<group>"; };
+		2BEE8045264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Nintendo - Super Mario Run.mp3"; path = "../../../../Library/Mobile Documents/com~apple~CloudDocs/Nintendo - Super Mario Run.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,8 +115,14 @@
 		2BEE8000264CC3F200B2F403 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				2BEE8042264CCA0500B2F403 /* Hyper Potions - Pika Dance.mp3 */,
+				2BEE8044264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 */,
+				2BEE8045264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 */,
+				2BEE8043264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 */,
+				2BEE8041264CCA0500B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 */,
 				2BEE8001264CC3F200B2F403 /* MyMusicPlayerApp.swift */,
 				2BEE8002264CC3F200B2F403 /* ContentView.swift */,
+				2BEE803E264CC44A00B2F403 /* Extensions.swift */,
 				2BEE8003264CC3F600B2F403 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -275,7 +298,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BEE8048264CCA0600B2F403 /* Hyper Potions - Pika Dance.mp3 in Resources */,
+				2BEE8046264CCA0600B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 in Resources */,
+				2BEE804E264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 in Resources */,
 				2BEE802E264CC3F600B2F403 /* Assets.xcassets in Resources */,
+				2BEE804A264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 in Resources */,
+				2BEE804C264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +311,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BEE8049264CCA0600B2F403 /* Hyper Potions - Pika Dance.mp3 in Resources */,
+				2BEE8047264CCA0600B2F403 /* TWICE - MORE & MORE (Original English Demo by Zara Larsson).mp3 in Resources */,
+				2BEE804F264CCA0600B2F403 /* Nintendo - Super Mario Run.mp3 in Resources */,
 				2BEE802F264CC3F600B2F403 /* Assets.xcassets in Resources */,
+				2BEE804B264CCA0600B2F403 /* THX theme, but it keeps rising.mp3 in Resources */,
+				2BEE804D264CCA0600B2F403 /* ITZY - 24HRS (SOPHIE Demo).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,6 +342,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BEE802C264CC3F600B2F403 /* ContentView.swift in Sources */,
+				2BEE803F264CC44A00B2F403 /* Extensions.swift in Sources */,
 				2BEE802A264CC3F600B2F403 /* MyMusicPlayerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -317,7 +351,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2BEE802D264CC3F600B2F403 /* ContentView.swift in Sources */,
+				2BEE8040264CC44A00B2F403 /* Extensions.swift in Sources */,
 				2BEE802B264CC3F600B2F403 /* MyMusicPlayerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -471,6 +505,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HT5W8ENWP3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -492,6 +527,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HT5W8ENWP3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
